@@ -1,6 +1,7 @@
 ---
 title: Home
-layout: default
+layout: page
+tagline: A software engineer & program lover.
 ---
 
 ### Hello, everyone!

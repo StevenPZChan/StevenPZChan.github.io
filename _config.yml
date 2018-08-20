@@ -2,7 +2,7 @@ theme:
 
 lang: zh-CN
 title: 岁月神偷 —— StevenPZChan's Blog
-description: A software engineer & program lover.
+permalink: /:categories/:year/:month/:title.html
 show_downloads: false
 google_analytics:
 
