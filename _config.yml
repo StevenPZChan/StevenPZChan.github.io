@@ -4,8 +4,8 @@ lang: zh-CN
 title: 岁月神偷 —— StevenPZChan's Blog
 description: A software engineer & program lover.
 show_downloads: false
+google_analytics:
 
-github:
-    is_project_page: true
-    repository_url: https://github.com/StevenPZChan
-    repository_name: StevenPZChan.github.io
+#social
+author: StevenPZChan
+image:
