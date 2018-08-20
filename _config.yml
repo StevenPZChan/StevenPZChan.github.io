@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+
+# Site settings
+title: 岁月神偷
+SEOTitle: StevenPZChan's Blog
+email: StevenPZChan@gmail.com
+description: "A software engineer & program lover"
+keyword: "Steven, Chan, AI"
+url: "https://StevenPZChan.github.io"
