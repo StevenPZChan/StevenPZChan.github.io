@@ -1,9 +1,11 @@
 ---
 title: Home
-layout: page
-tagline: A software engineer & program lover.
+layout: home
+permalink: /index
+posts_limit: 0
+tags: index
 ---
 
 ### Hello, everyone!
 ### I'm Steven. [*About me*](/about.html)
-### Enjoy my [blogs](/blogs.html) and [repositories](/repositories.html)!
+### Enjoy my [blogs](/posts.html) and [repositories](/repositories.html)!

@@ -1,6 +1,9 @@
 ---
 title: About me
 layout: post
+permalink: /about
+tags: about
+share: false
 ---
 
 ## About me:

@@ -1,7 +1,8 @@
 ---
 title: Repositories
 layout: page
-tagline: by Steven
+permalink: /repositories
+tags: repository
 ---
 
 ### C\# common util classes
