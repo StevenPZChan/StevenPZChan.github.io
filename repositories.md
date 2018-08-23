@@ -6,12 +6,12 @@ tags: repository
 ---
 
 ### C\# common util classes
-* [Utility](/Utility)
+* [Utility](https://github.com/StevenPZChan/Utility)
 
 ### python
-* [PyBites Code Challenges](/challenges "Forked from pybites")
-* [pythonchallenge](/pythonchallenge "challenges on pythonchallenge.com")
-* [awesome-python3-webapp](/awesome-python3-webapp "python webapp demo @liaoxuefeng.com")
+* [PyBites Code Challenges](https://github.com/StevenPZChan/challenges "Forked from pybites")
+* [pythonchallenge](https://stevenpzchan.github.io/pythonchallenge "challenges on pythonchallenge.com")
+* [awesome-python3-webapp](https://github.com/StevenPZChan/awesome-python3-webapp "python webapp demo @liaoxuefeng.com")
 
 ### machine learning/deep learning
-* [machine-learning](/machine-learning "machine-learning @ https://developers.google.cn/machine-learning/crash-course")
+* [machine-learning](https://github.com/StevenPZChan/machine-learning "machine-learning @ https://developers.google.cn/machine-learning/crash-course")
