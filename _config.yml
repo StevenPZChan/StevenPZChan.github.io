@@ -3,7 +3,7 @@
 locale: zh-CN
 title: StevenPZChanの小窝
 description: A software engineer & program lover.
-root : /pages/StevenPZChan/
+root: /pages/StevenPZChan/
 baseurl: /
 url: /
 logo: /images/so-simple-site-logo.png
