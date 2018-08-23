@@ -4,7 +4,7 @@ locale: zh-CN
 title: StevenPZChanの小窝
 description: A software engineer & program lover.
 baseurl:
-url: https://stevenpzchan.github.io
+url: 
 logo: /images/so-simple-site-logo.png
 
 date_format: "%B %-d, %Y"
