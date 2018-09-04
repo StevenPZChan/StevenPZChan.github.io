@@ -15,3 +15,4 @@ tags: repository
 
 ### machine learning/deep learning
 * [machine-learning](https://github.com/StevenPZChan/machine-learning "machine-learning @ https://developers.google.cn/machine-learning/crash-course")
+* [[ml_dl_coursera_Andrew_Ng](https://stevenpzchan.github.io/ml_dl_coursera_Andrew_Ng "Exercises for machine learning and deep learning lessons on Coursera by Andrew Ng")
