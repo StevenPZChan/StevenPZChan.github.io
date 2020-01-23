@@ -2,7 +2,7 @@ _asset_bundler_cache
 _site
 .bundle
 .DS_Store
-.jekyll-metadata
+.jekyll*
 .sass-cache
 *.gem
 *.sublime-project
