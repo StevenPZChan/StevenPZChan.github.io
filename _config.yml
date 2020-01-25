@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 # theme: jekyll-theme-so-simple
-# remote_theme: mmistakes/so-simple-theme
+remote_theme: mmistakes/so-simple-theme@3.2.0
 skin: "/assets/css/skins/default.css"
 locale: zh-CN
-title: "StevenPZChanの小窝"
-description: "A software engineer & program lover."
-baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# title: "My Awesome Site"
+# description: "It really is the best."
+# baseurl: # the subpath of your site, e.g. "/blog"
+url: https://stevenpzchan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: /images/so-simple-site-logo.png # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true # reading time estimates, e.g. true
@@ -42,7 +42,7 @@ liquid:
   error_mode: strict
 
 # Build settings
-permalink: /:categories/:title
+permalink: /:categories/:title/
 markdown: kramdown
 feed:
   path: atom.xml
@@ -69,6 +69,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - themes
 
 plugins:
   - jekyll-seo-tag
@@ -108,4 +109,8 @@ footer_links:
   - title: Contact
     url: mailto:StevenPZChan@gmail.com
 copyright: This site is made by StevenPZChan.
+
+title: "StevenPZChanの小窝"
+description: "A software engineer & program lover."
+baseurl: # the subpath of your site, e.g. "/blog"/mmistakes.github.io"
 

@@ -1,7 +1,6 @@
 ---
 title: Home
 layout: home
-permalink: /index
 posts_limit: 0
 tags: index
 ---

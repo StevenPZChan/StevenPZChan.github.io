@@ -1,7 +1,7 @@
 ---
 title: Repositories
 layout: page
-permalink: /repositories
+permalink: /repositories/
 tags: repository
 ---
 
