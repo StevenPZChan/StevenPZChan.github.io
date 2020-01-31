@@ -6,5 +6,5 @@ tags: index
 ---
 
 ### Hello, everyone!
-### I'm Steven. [*About me*](/about.html)
-### Enjoy my [blogs](/posts.html) and [repositories](/repositories.html)!
+### I'm Steven. [*About me*](/about/)
+### Enjoy my [blogs](/posts/) and [repositories](/repositories/)!
